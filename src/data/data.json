@@ -1,0 +1,82 @@
+[
+
+   
+    {
+        "name": "Antoine Griezmann",
+        "club":"Barcelona",
+        "marketvalue":400,
+        "image":"https://img.a.transfermarkt.technology/portrait/header/125781-1564143733.jpg?lm=1"
+  
+    },
+    
+    {
+        "name": "Ousmane Dembélé",
+        "club":"Barcelona",
+        "marketvalue":300,
+        "image":"https://img.a.transfermarkt.technology/portrait/header/288230-1561038993.jpg?lm=1"
+  
+    },
+    
+    {
+        "name": "Lionel Messi",
+        "club":"Barcelona",
+        "marketvalue":600,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Lionel_Messi_20180626_%28cropped%29.jpg"
+  
+    },
+    
+    {
+        "name": "Arthur",
+        "club":"Barcelona",
+        "marketvalue":500,
+        "image":"https://img.a.transfermarkt.technology/portrait/header/362842-1599988056.jpg?lm=1"
+  
+    },
+    
+    {
+        "name": "Ansu Fati",
+        "club":"Barcelona",
+        "marketvalue":400,
+        "image":"https://img.a.transfermarkt.technology/portrait/header/466810-1560761660.jpg?lm=1"
+  
+    },
+    
+    {
+        "name": " Frenkie de Jong",
+        "club":"Barcelona",
+        "marketvalue":450,
+        "image":"https://img.a.transfermarkt.technology/portrait/header/326330-1599987876.jpg?lm=1"
+  
+    },
+    {
+        "name": "Karim Benzema",
+        "club":"Real Madrid",
+        "marketvalue":550,
+        "image":"https://img.a.transfermarkt.technology/portrait/header/18922-1544774342.jpg?lm=1"
+    },
+    {
+        "name": "Casemiro",
+        "club":"Real Madrid",
+        "marketvalue":400,
+        "image":"https://img.a.transfermarkt.technology/portrait/header/16306-1454413595.jpg?lm=1"
+    },
+    {
+        "name": "Federico Valverde",
+        "club":"Real Madrid",
+        "marketvalue":500,
+        "image":"https://img.a.transfermarkt.technology/portrait/header/369081-1581501132.jpg?lm=1"
+    },
+    {
+        "name": "Toni Kroos",
+        "club":"Real Madrid",
+        "marketvalue":300,
+        "image":"https://img.a.transfermarkt.technology/portrait/header/31909-1519743952.jpg?lm=1"
+    },
+    {
+        "name": " Daniel Carvajal",
+        "club":"Real Madrid",
+        "marketvalue":450,
+        "image":"https://img.a.transfermarkt.technology/portrait/header/138927-1413206306.jpg?lm=1"
+    }
+   
+]

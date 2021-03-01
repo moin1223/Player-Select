@@ -1,0 +1,15 @@
+.player-detail{
+    border: 1px solid lightgray;
+    width:70%;
+    display:center;
+}
+.players-container{
+    display: flex;
+}
+.main-button{
+    background-color:goldenrod;
+    width: 150px;
+    height:30px;
+    border: 1px solid darkgray;
+    border-radius:5px;
+}
